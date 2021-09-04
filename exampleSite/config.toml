@@ -141,9 +141,9 @@ enableEmoji = true
           # URL of avatar shown in home page
           avatarURL = "/images/avatar.png"
           # title shown in home page (HTML format is supported)
-          title = "uBlogger | Hugo Theme"
+          title = "Luis Alvarado | Bartopia "
           # subtitle shown in home page (HTML format is supported)
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "Si la vida te da limones, pide sal y tequila!"
           # whether to show social links
           social = true
           # disclaimer (HTML format is supported)
