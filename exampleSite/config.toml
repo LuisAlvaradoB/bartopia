@@ -1,7 +1,7 @@
 baseURL = "https://ublogger.netlify.app/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
-defaultContentLanguage = "es"
+defaultContentLanguage = "en"
 # theme
 # 主题
 theme = "uBlogger"
@@ -27,9 +27,9 @@ enableEmoji = true
   [languages.en]
     weight = 1
     # language code
-    languageCode = "es"
+    languageCode = "en"
     # language name
-    languageName = "Espanish"
+    languageName = "English"
     # whether to include Chinese/Japanese/Korean
     hasCJKLanguage = false
     # default amount of posts in each pages
